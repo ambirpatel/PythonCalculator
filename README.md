@@ -1,2 +1,2 @@
 # PythonCalculator
-PyCalc is a simple calculator built using Python and PyQt5
+PythonCalculator is a simple calculator built using Python and PyQt5
